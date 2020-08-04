@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/springmvc-01-servlet/src/main/java/com/kuang/servlet/HelloServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springmvc-04-controller/src/main/java/com/kuang/controller/ControllerTest1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springmvc-04-controller/src/main/java/com/kuang/controller/ControllerTest2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springmvc-04-controller/src/main/java/com/kuang/controller/EncodingController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springmvc-04-controller/src/main/java/com/kuang/controller/ModelTest1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springmvc-04-controller/src/main/java/com/kuang/controller/RestFulController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springmvc-04-controller/src/main/java/com/kuang/controller/UserController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springmvc-05-json/src/main/java/com/kuang/controller/UserController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springmvc-05-json/src/main/java/com/kuang/utils/JsonUtils.java" charset="GBK" />
+  </component>
+</project>
